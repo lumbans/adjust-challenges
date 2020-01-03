@@ -31,6 +31,6 @@ Notes:
   5 shuf -i 1-$number
 ```
 
-line 2: Print messages asking to input number, and save to variable number 
-line 4: Print messages Result
-line 5: Command to generate random permuation, -i option is to treat each number LO through HI as an input line 
+*line 2: Print messages asking to input number, and save to variable number 
+*line 4: Print messages Result
+*line 5: Command to generate random permuation, -i option is to treat each number LO through HI as an input line 
