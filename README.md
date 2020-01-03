@@ -1,10 +1,10 @@
 # adjust-challenges
 
 to run the script in MACOS install coreutils
-$ brew install coreutils
+```$ brew install coreutils```
 
 then run the bash scripts:
-$sh random.sh
+```$sh random.sh
 Please input random number to print: 10
 
 Result:
@@ -17,14 +17,14 @@ Result:
 6
 9
 8
-5
+5```
 
 Notes:
-  1 #!/bin/bash
+```  1 #!/bin/bash
   2 read -p 'Please input random number to print: ' number
   3
   4 echo Result:
-  5 shuf -i 1-$number
+  5 shuf -i 1-$number```
 
 line 2: Print messages asking to input number, and save to variable number 
 line 4: Print messages Result
