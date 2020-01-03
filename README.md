@@ -4,7 +4,10 @@ to run the script in MACOS install coreutils
 ```$ brew install coreutils```
 
 then run the bash scripts:
-```$sh random.sh
+```
+$sh random.sh
+```
+```
 Please input random number to print: 10
 
 Result:
